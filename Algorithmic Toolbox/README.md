@@ -41,7 +41,7 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 ### Week 5- Dynamic Programming 1 ([PDF](Assignments/week5_dynamic_programming1.pdf))
 
-- [x] [Money Change Again]()
+- [x] [Money Change Again](Solutions/5_1.js)
 - [ ] [Primitive Calculator]()
 - [ ] [Edit Distance]()
 - [ ] [Longest Common Subsequence of Two Sequence]()
