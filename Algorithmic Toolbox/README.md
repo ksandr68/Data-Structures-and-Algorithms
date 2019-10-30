@@ -32,11 +32,11 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 ### Week 4- Divide and Conquer ([PDF](Assignments/week4_divide_and_conquer.pdf))
 
-- [x] [Binary Search]()
-- [x] [Majority Element]()
-- [x] [Improving QuickSort]()
-- [x] [Inversions]()
-- [x] [Organizing a Lottery]()
+- [x] [Binary Search](Solutions/4_1.js)
+- [x] [Majority Element](Solutions/4_2.js)
+- [x] [Improving QuickSort](Solutions/4_3.js)
+- [x] [Inversions](Solutions/4_4.js)
+- [x] [Organizing a Lottery](Solutions/4_5.js)
 - [ ] [Closest Points]()
 
 ### Week 5- Dynamic Programming 1 ([PDF](Assignments/week5_dynamic_programming1.pdf))
