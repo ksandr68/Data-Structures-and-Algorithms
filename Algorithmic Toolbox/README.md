@@ -6,19 +6,19 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 ### Week 1- Programming Challenges ([PDF](Assignments/week1_programming_challenges.pdf))
 
-- [x] [Sum of Two Digits]()
-- [x] [Maximum Pairwise Product]()
+- [x] [Sum of Two Digits](Solutions/1_1.js)
+- [x] [Maximum Pairwise Product](Solutions/1_2.js)
 
 ### Week 2- Algorithmic Warm-up ([PDF](Assignments/week2_algorithmic_warmup.pdf))
 
-- [x] [Fibonacci Number]()
-- [x] [Last Digit of a Large Fibonacci Number]()
-- [x] [Greatest Common Divisor]()
-- [x] [Least Common Multiple]()
-- [x] [Fibonacci Number Again]()
-- [x] [Last Digit of the Sum of Fibonacci Numbers]()
-- [x] [Last Digit of the Sum of Fibonacci Numbers Again]()
-- [x] [Last Digit of the Sum of Squares of Fibonacci Numbers]()
+- [x] [Fibonacci Number](Solutions/2_1.js)
+- [x] [Last Digit of a Large Fibonacci Number](Solutions/2_2.js)
+- [x] [Greatest Common Divisor](Solutions/2_3.js)
+- [x] [Least Common Multiple](Solutions/2_4.js)
+- [x] [Fibonacci Number Again](Solutions/2_5.js)
+- [x] [Last Digit of the Sum of Fibonacci Numbers](Solutions/2_6.js)
+- [x] [Last Digit of the Sum of Fibonacci Numbers Again](Solutions/2_7.js)
+- [x] [Last Digit of the Sum of Squares of Fibonacci Numbers](Solutions/2_8.js)
 
 ### Week 3- Greedy Algorithms ([PDF](Assignments/week3_greedy_algorithms.pdf))
 
