@@ -46,7 +46,7 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 - [Longest Common Subsequence of Two Sequence]()
 - [Longest Common Subsequence of Three Sequence]()
 
-### Week 6- Dynamic Programming 2 ([PDF](/Assignments/week6_dynamic_programming2.pdf))
+### Week 6- Dynamic Programming 2 ([PDF](Assignments/week6_dynamic_programming2.pdf))
 
 - [Maximum Amount of Gold]()
 - [Partitioning Souvenirs]()
