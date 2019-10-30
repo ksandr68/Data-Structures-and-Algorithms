@@ -22,12 +22,13 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 ### Week 3- Greedy Algorithms ([PDF](Assignments/week3_greedy_algorithms.pdf))
 
-- [x] [Money Change]()
-- [x] [Maximum Value of the Loot (Fractional Knapsack)]()
-- [x] [Maximum Advertisement Revenue (Maximum Dot Product)]()
-- [x] [Collecting Signatures (Covering Segments by Points)]()
-- [x] [Maximum Number of Prizes (Different Summands)]()
-- [x] [Maximum Salary (Largest Number)]()
+- [x] [Money Change](Solutions/3_1.js)
+- [x] [Maximum Value of the Loot (Fractional Knapsack)](Solutions/3_2.js)
+- [x] [Car fueling](Solutions/3_3.js)
+- [x] [Maximum Advertisement Revenue (Maximum Dot Product)](Solutions/3_4.js)
+- [x] [Collecting Signatures (Covering Segments by Points)](Solutions/3_5.js)
+- [x] [Maximum Number of Prizes (Different Summands)](Solutions/3_6.js)
+- [x] [Maximum Salary (Largest Number)](Solutions/3_7.js)
 
 ### Week 4- Divide and Conquer ([PDF](Assignments/week4_divide_and_conquer.pdf))
 
