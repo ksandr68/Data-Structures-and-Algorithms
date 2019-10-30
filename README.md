@@ -2,7 +2,7 @@
 
 ## Courses:
 
-### [Algorithmic Toolbox](Algorithmic Toolbox/)
+### [Algorithmic Toolbox](Algorithmic%20Toolbox/)
 
 ### Data Structures
 
