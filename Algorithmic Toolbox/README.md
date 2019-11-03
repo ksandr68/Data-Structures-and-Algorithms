@@ -49,6 +49,6 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 ### Week 6- Dynamic Programming 2 ([PDF](Assignments/week6_dynamic_programming2.pdf))
 
-- [ ] [Maximum Amount of Gold]()
-- [ ] [Partitioning Souvenirs]()
-- [ ] [Maximum Value of an Arithmetic Expression]()
+- [ ] [Maximum Amount of Gold](Solutions/6_1.js)
+- [ ] [Partitioning Souvenirs](Solutions/6_2.js)
+- [ ] [Maximum Value of an Arithmetic Expression](olutions/6_3.js)
