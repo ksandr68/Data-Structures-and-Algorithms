@@ -51,4 +51,4 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 - [x] [Maximum Amount of Gold](Solutions/6_1.js)
 - [x] [Partitioning Souvenirs](Solutions/6_2.js)
-- [x] [Maximum Value of an Arithmetic Expression](olutions/6_3.js)
+- [x] [Maximum Value of an Arithmetic Expression](Solutions/6_3.js)
