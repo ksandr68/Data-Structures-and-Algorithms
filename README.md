@@ -4,7 +4,7 @@
 
 ### [Algorithmic Toolbox](Algorithmic%20Toolbox/)
 
-### Data Structures
+### [Data Structures](Data%20structures/)
 
 ### Algorithms on Graphs
 
