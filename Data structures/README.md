@@ -1,4 +1,4 @@
-# Coursera: Algorithmic Toolbox
+# Coursera: Data structures
 
 This repository contains all solutions for the course [Data structures](https://www.coursera.org/learn/data-structures) offered on Coursera. The assignment solutions are in Javascript.
 
