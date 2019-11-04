@@ -7,10 +7,10 @@ This repository contains all solutions for the course [Data structures](https://
 ### Week 1 - Basic data structures ([PDF](Assignments/1.pdf))
 
 - [x] [Check brackets in the code](Solutions/1_1.js)
-- [ ] [Compute tree height](Solutions/1_2.js)
+- [x] [Compute tree height](Solutions/1_2.js)
 - [ ] [Network packet processing simulation](Solutions/1_3.js)
-- [ ] [Extending stack interface](Solutions/1_4.js)
-- [ ] [Maximum in sliding window](Solutions/1_5.js)
+- [x] [Extending stack interface](Solutions/1_4.js)
+- [x] [Maximum in sliding window](Solutions/1_5.js)
 
 ### Week 3 - Priority Queues and Disjoint Sets ([PDF](Assignments/3.pdf))
 
