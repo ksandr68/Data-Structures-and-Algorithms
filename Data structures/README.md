@@ -14,13 +14,13 @@ This repository contains all solutions for the course [Data structures](https://
 
 ### Week 3 - Priority Queues and Disjoint Sets ([PDF](Assignments/3.pdf))
 
-- [ ] [Convert array into heap](Solutions/3_1.js)
-- [ ] [Parallel processing](Solutions/3_2.js)
-- [ ] [Merging tables](Solutions/3_3.js)
+- [x] [Convert array into heap](Solutions/3_1.js)
+- [x] [Parallel processing](Solutions/3_2.js)
+- [x] [Merging tables](Solutions/3_3.js)
 
 ### Week 4 - Hash Tables and Hash Functions ([PDF](Assignments/4.pdf))
 
-- [ ] [Phone book](Solutions/4_1.js)
+- [x] [Phone book](Solutions/4_1.js)
 - [ ] [Hashing with chains](Solutions/4_2.js)
 - [ ] [Find pattern in text](Solutions/4_3.js)
 - [ ] [Substring equality](Solutions/4_4.js)
