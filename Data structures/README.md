@@ -14,23 +14,23 @@ This repository contains all solutions for the course [Data structures](https://
 
 ### Week 3 - Priority Queues and Disjoint Sets ([PDF](Assignments/3.pdf))
 
-- [x] [Convert array into heap](Solutions/3_1.js)
-- [x] [Parallel processing](Solutions/3_2.js)
-- [x] [Merging tables](Solutions/3_3.js)
+- [x] [Convert array into heap](Solutions/2_1.js)
+- [x] [Parallel processing](Solutions/2_2.js)
+- [x] [Merging tables](Solutions/2_3.js)
 
 ### Week 4 - Hash Tables and Hash Functions ([PDF](Assignments/4.pdf))
 
-- [x] [Phone book](Solutions/4_1.js)
-- [ ] [Hashing with chains](Solutions/4_2.js)
-- [ ] [Find pattern in text](Solutions/4_3.js)
-- [ ] [Substring equality](Solutions/4_4.js)
-- [ ] [Longest common substring](Solutions/4_5.js)
-- [ ] [Pattern matching with mismatches](Solutions/4_6.js)
+- [x] [Phone book](Solutions/3_1.js)
+- [ ] [Hashing with chains](Solutions/3_2.js)
+- [ ] [Find pattern in text](Solutions/3_3.js)
+- [ ] [Substring equality](Solutions/3_4.js)
+- [ ] [Longest common substring](Solutions/3_5.js)
+- [ ] [Pattern matching with mismatches](Solutions/3_6.js)
 
 ### Week 6 - Binary Search Trees ([PDF](Assignments/6.pdf))
 
-- [ ] [Binary tree traversals](Solutions/6_1.js)
-- [ ] [Is it a binary search tree?](Solutions/6_2.js)
-- [ ] [Is it a binary search tree? Hard version](Solutions/6_3.js)
-- [ ] [Set with range sums](Solutions/6_4.js)
-- [ ] [Rope](Solutions/6_5.js)
+- [ ] [Binary tree traversals](Solutions/4_1.js)
+- [ ] [Is it a binary search tree?](Solutions/4_2.js)
+- [ ] [Is it a binary search tree? Hard version](Solutions/4_3.js)
+- [ ] [Set with range sums](Solutions/4_4.js)
+- [ ] [Rope](Solutions/4_5.js)
