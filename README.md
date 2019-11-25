@@ -19,3 +19,5 @@
 ## Certificates:
 
 ### [Algorithmic Toolbox](Certificates/1.pdf)
+
+### [Data Structures](Certificates/2.pdf)
