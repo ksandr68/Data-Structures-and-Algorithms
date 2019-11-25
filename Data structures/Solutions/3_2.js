@@ -111,7 +111,7 @@ class HashTable {
     return hash % this.bucketCount;
   }
 
-  add(str) {
+  add(str) {  
     const list = this.elements[this.hashFunction(str)];
     if (!list.isFind(str)) list.insert(str);
   }
