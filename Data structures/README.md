@@ -21,7 +21,7 @@ This repository contains all solutions for the course [Data structures](https://
 ### Week 4 - Hash Tables and Hash Functions ([PDF](Assignments/4.pdf))
 
 - [x] [Phone book](Solutions/3_1.js)
-- [ ] [Hashing with chains](Solutions/3_2.js)
+- [x] [Hashing with chains](Solutions/3_2.js)
 - [ ] [Find pattern in text](Solutions/3_3.js)
 - [ ] [Substring equality](Solutions/3_4.js)
 - [ ] [Longest common substring](Solutions/3_5.js)
@@ -29,8 +29,8 @@ This repository contains all solutions for the course [Data structures](https://
 
 ### Week 6 - Binary Search Trees ([PDF](Assignments/6.pdf))
 
-- [ ] [Binary tree traversals](Solutions/4_1.js)
-- [ ] [Is it a binary search tree?](Solutions/4_2.js)
-- [ ] [Is it a binary search tree? Hard version](Solutions/4_3.js)
+- [x] [Binary tree traversals](Solutions/4_1.js)
+- [x] [Is it a binary search tree?](Solutions/4_2.js)
+- [x] [Is it a binary search tree? Hard version](Solutions/4_3.js)
 - [ ] [Set with range sums](Solutions/4_4.js)
 - [ ] [Rope](Solutions/4_5.js)
