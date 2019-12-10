@@ -6,7 +6,7 @@
 
 ### [Data Structures](Data%20structures/)
 
-### Algorithms on Graphs
+### [Algorithms on Graphs](Algorithms%20on%20Graph/)
 
 ### Algorithms on Strings
 
